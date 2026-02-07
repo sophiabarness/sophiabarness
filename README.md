@@ -7,7 +7,7 @@ My name is Sophia Barnes. I am currently completing my master's in computer scie
 I like to learn by building. 
 - Trustworthy AI Agents for Reinsurance: [Blog](https://temporal.io/blog/trusting-ai-agents-a-reinsurance-case-study), [Demo](https://www.youtube.com/watch?v=NkQ8bA3AcAQ), [Code](https://github.com/sophiabarness/cedant-historical-agent-public)
 - Wildfire Real-time Visibility and Response on AWS AgentCore: [Code](https://github.com/sophiabarness/wfm-agentcore-poc)
-- Building a Serverless Broker for Tor's Snowflake Censorship Circumvention: [Code](https://github.com/larafranciulli/snowflake-barebones-broker)
+- Building a Serverless Broker for Tor's Snowflake Censorship Circumvention: [Code](https://github.com/larafranciulli/snowflake-barebones-broker) [Paper](https://github.com/larafranciulli/snowflake-barebones-broker/blob/main/BarebonesBroker.pdf)
 - Websocket-based Multi-player Dandelion Game: [Code](https://github.com/sophiabarness/DandelionsV2Backend)
 
 
