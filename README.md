@@ -1,7 +1,7 @@
 # Sophia Barnes
 
 ## Hi 👋
-My name is Sophia Barnes. I am currently completing my master's in computer science and bachelor's in math at Stanford University. 
+My name is Sophia Barnes. I am currently a solutions engineer at Mintlify. I recently completed my master's in computer science and bachelor's in math at Stanford University. 
 
 ## Portfolio 🔭
 I like to learn by building. 
